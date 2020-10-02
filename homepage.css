@@ -1,0 +1,12 @@
+body{
+    background-image: url(https://images.wallpaperscraft.com/image/cubes_structure_black_blue_120005_1920x1080.jpg);
+}
+a{
+    color: red !important;
+}
+h1{
+    color: rgb(101, 206, 15);
+    margin: 20px !important;
+    
+    text-transform: uppercase;
+}
