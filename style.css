@@ -1,0 +1,29 @@
+body{
+    background: linear-gradient(rgba(0,0,50,0.5),
+    rgba(0,0,50,0.5)) , 
+    url(https://wallpaperaccess.com/full/1540010.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.heading{
+    color: rgb(20, 18, 18);
+}
+
+.login-box{
+  max-width: 740px; ;
+  float: none;
+  margin: 15px auto;
+}
+.login-left{
+    background-color: rgb(22, 235, 224) !important;
+    padding: 30px;
+}
+.login-right{
+    background-color: rgb(235, 166, 231) !important;
+    padding: 30px;
+} 
+
+
+.form-control{
+    background-color: transparent !important;
+}
