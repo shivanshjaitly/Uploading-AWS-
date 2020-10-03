@@ -1,0 +1,27 @@
+.container{
+    margin: 0 auto;
+    width: 50%;
+    height: 250px;
+    border-radius: 3px;
+    background-color: whitesmoke;
+    text-align: center;
+}
+
+.preview{
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    margin: 0 auto;
+    background: burlywood;
+}
+.preview img{
+    display: none;
+}
+
+.button{
+    border: 0  ;
+    background-color: deepskyblue;
+    color: white;
+    padding: 5px 15px;
+    margin-left: 10px;
+}
